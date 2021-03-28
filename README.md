@@ -8,6 +8,7 @@ The example is simple, but the constraint_layout is to useful to App to work wit
 
 # Technologies
 This project use the follow technologies and tools:
+- [ViewBinding](https://developer.android.com/topic/libraries/view-binding) - Is a feature that allows you to more easily write code that interacts with views.
 - [MDC](https://material.io/components?platform=android) - Material Components are interactive building blocks for creating a user interface.
 - [ConstraintLayout](https://developer.android.com/training/constraint-layout) - ConstraintLayout allows you to create large and complex layouts with a flat view hierarchy  
 
